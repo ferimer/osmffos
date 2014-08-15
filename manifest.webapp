@@ -1,0 +1,19 @@
+{
+  "name": "OSMaps",
+  "description": "OpenStreetMaps for Firefox OS",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Fernando Rodríguez Sela - Ferimer, Servicios informaticos",
+    "url": "https://github.com/ferimer/osmffos"
+  },
+  "locales": {
+    "en-US": {
+      "name": "OSMaps",
+      "description": "OpenStreetMaps for Firefox OS"
+    },
+    "es-ES": {
+      "name": "OSMaps",
+      "description": "OpenStreetMaps para Firefox OS"
+    }
+  }
+}
