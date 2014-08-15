@@ -15,5 +15,8 @@
       "name": "OSMaps",
       "description": "OpenStreetMaps para Firefox OS"
     }
+  },
+  "permissions": {
+    "geolocation": {}
   }
 }
